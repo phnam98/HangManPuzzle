@@ -1,0 +1,11 @@
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\bin\Debug\HangManPuzzle.exe.config
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\bin\Debug\HangManPuzzle.exe
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\bin\Debug\HangManPuzzle.pdb
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.csprojAssemblyReference.cache
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.Interface.resources
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.WordList.resources
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.csproj.GenerateResource.cache
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.exe
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.pdb
+C:\Users\Nam\source\repos\HangManPuzzle\HangManPuzzle\obj\Debug\HangManPuzzle.Properties.Resources.resources

@@ -1,0 +1,16 @@
+Dog
+Cat
+Deer
+Crocodile
+Mole
+Chicken
+Bear
+Rhinoceros
+Hippo
+Giraffe
+Bird
+Elephant
+Mouse
+Butterfly
+Catepillar
+Fly

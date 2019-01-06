@@ -1,0 +1,15 @@
+Chien
+Chat
+Porc
+Lion
+Canard
+Souris
+Mole
+Taureau
+oiseau
+requin
+ceuf
+oeuf
+poulet
+crocodile
+dinosaure
